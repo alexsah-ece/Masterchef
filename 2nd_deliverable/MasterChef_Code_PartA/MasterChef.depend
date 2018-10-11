@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1524603842 source:/home/alexandros/Documents/My C++ Projects/MasterChef/main.cpp
+	"Team.h"
+	<time.h>
+
+1524604591 /home/alexandros/Documents/My C++ Projects/MasterChef/Team.h
+	"Player.h"
+
+1524604587 /home/alexandros/Documents/My C++ Projects/MasterChef/Player.h
+	<stdlib.h>
+	<iostream>
+	<string>
+
+1524604485 source:/home/alexandros/Documents/My C++ Projects/MasterChef/Player.cpp
+	"Player.h"
+
+1524605268 source:/home/alexandros/Documents/My C++ Projects/MasterChef/Team.cpp
+	"Team.h"
+

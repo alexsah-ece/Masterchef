@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1526311703 source:c:\users\chrys\desktop\masterchefpartd\player.cpp
+	"Player.h"
+
+1527409027 
+
+1524431775 c:\users\chrys\desktop\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526311277 source:c:\users\chrys\desktop\masterchefpartd\voting.cpp
+
+1527176490 source:c:\users\chrys\desktop\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1527177384 ompetition.h"
+
+1524425908 c:\users\chrys\desktop\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524425908 on.h"
+
+1524425793 c:\users\chrys\desktop\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524425793 ward.h"
+
+1527176562 c:\users\chrys\desktop\masterchefpartd\team.h
+	"Player.h"
+
+1524426032 c:\users\chrys\desktop\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492454413 c:\users\chrys\desktop\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1527176546 source:c:\users\chrys\desktop\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1524695231 c:\users\chrys\desktop\masterchefpartd\voting.h
+
+1527176715 source:c:\users\chrys\desktop\masterchefpartd\team.cpp
+	"Team.h"
+
+1527177384 source:e:\sahinis\desktop\masterchefpartd\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1524425908 e:\sahinis\desktop\masterchefpartd\immunitycompetition.h
+	"Competition.h"
+
+1524425793 e:\sahinis\desktop\masterchefpartd\competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1524431775 e:\sahinis\desktop\masterchefpartd\player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1527176562 e:\sahinis\desktop\masterchefpartd\team.h
+	"Player.h"
+
+1524426032 e:\sahinis\desktop\masterchefpartd\immunityaward.h
+	"Award.h"
+
+1492454413 e:\sahinis\desktop\masterchefpartd\award.h
+	<string>
+	<iostream>
+
+1526311703 source:e:\sahinis\desktop\masterchefpartd\player.cpp
+	"Player.h"
+
+1527409027 source:e:\sahinis\desktop\masterchefpartd\team.cpp
+	"Team.h"
+
+1527985621 source:e:\sahinis\desktop\masterchefpartd\main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1528039695 e:\sahinis\desktop\masterchefpartd\voting.h
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+	<stdlib.h>
+
+1528039684 e:\sahinis\desktop\masterchefpartd\vote.h
+	<string>
+	<iostream>
+
+1528032961 source:e:\sahinis\desktop\masterchefpartd\voting.cpp
+	"Voting.h"
+
+1528009080 source:/home/alexandros/Desktop/MasterChefPartD/ImmunityCompetition.cpp
+	"ImmunityCompetition.h"
+
+1528009080 /home/alexandros/Desktop/MasterChefPartD/ImmunityCompetition.h
+	"Competition.h"
+
+1528009080 /home/alexandros/Desktop/MasterChefPartD/Competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1528009082 /home/alexandros/Desktop/MasterChefPartD/Player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1528009084 /home/alexandros/Desktop/MasterChefPartD/Team.h
+	"Player.h"
+
+1528009080 /home/alexandros/Desktop/MasterChefPartD/ImmunityAward.h
+	"Award.h"
+
+1528009080 /home/alexandros/Desktop/MasterChefPartD/Award.h
+	<string>
+	<iostream>
+
+1528009080 source:/home/alexandros/Desktop/MasterChefPartD/main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1528009084 /home/alexandros/Desktop/MasterChefPartD/Voting.h
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+	<stdlib.h>
+
+1528009084 /home/alexandros/Desktop/MasterChefPartD/Vote.h
+	<string>
+	<iostream>
+
+1528009080 source:/home/alexandros/Desktop/MasterChefPartD/Player.cpp
+	"Player.h"
+
+1528009082 source:/home/alexandros/Desktop/MasterChefPartD/Team.cpp
+	"Team.h"
+
+1528057365 source:/home/alexandros/Desktop/MasterChefPartD/Voting.cpp
+	"Voting.h"
+
+1528009080 source:/home/alexandros/Desktop/8906_9329_Project_PartD/ImmunityCompetition.cpp
+	"ImmunityCompetition.h"
+
+1528009080 /home/alexandros/Desktop/8906_9329_Project_PartD/ImmunityCompetition.h
+	"Competition.h"
+
+1528009080 /home/alexandros/Desktop/8906_9329_Project_PartD/Competition.h
+	<string>
+	<iostream>
+	"Player.h"
+	"Team.h"
+	"ImmunityAward.h"
+
+1528009082 /home/alexandros/Desktop/8906_9329_Project_PartD/Player.h
+	<iostream>
+	<ctime>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1528009084 /home/alexandros/Desktop/8906_9329_Project_PartD/Team.h
+	"Player.h"
+
+1528009080 /home/alexandros/Desktop/8906_9329_Project_PartD/ImmunityAward.h
+	"Award.h"
+
+1528009080 /home/alexandros/Desktop/8906_9329_Project_PartD/Award.h
+	<string>
+	<iostream>
+
+1528009080 source:/home/alexandros/Desktop/8906_9329_Project_PartD/main.cpp
+	"Player.h"
+	"Team.h"
+	"ImmunityCompetition.h"
+	"Voting.h"
+
+1528009084 /home/alexandros/Desktop/8906_9329_Project_PartD/Voting.h
+	<vector>
+	<map>
+	"Vote.h"
+	"Team.h"
+	<stdlib.h>
+
+1528009084 /home/alexandros/Desktop/8906_9329_Project_PartD/Vote.h
+	<string>
+	<iostream>
+
+1528009080 source:/home/alexandros/Desktop/8906_9329_Project_PartD/Player.cpp
+	"Player.h"
+
+1528009082 source:/home/alexandros/Desktop/8906_9329_Project_PartD/Team.cpp
+	"Team.h"
+
+1528057365 source:/home/alexandros/Desktop/8906_9329_Project_PartD/Voting.cpp
+	"Voting.h"
+

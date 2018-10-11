@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1523081083 source:c:\users\angry laptop too\desktop\masterchef\main.cpp
+	"Team.h"
+
+1523029901 
+
+1523029915 c:\users\angry laptop too\desktop\masterchef\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523029643 c:\users\angry laptop too\desktop\masterchef\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523030048 source:c:\users\angry laptop too\desktop\masterchef\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029901 source:c:\users\angry laptop too\desktop\masterchef\player.cpp
+	"Player.h"
+
+1523081242 source:c:\users\angry laptop too\desktop\masterchef\creativitycompetition.cpp
+
+1492455462 source:c:\users\angry laptop too\desktop\masterchef\immunitycompetition.cpp
+
+1492455468 source:c:\users\angry laptop too\desktop\masterchef\teamcompetition.cpp
+
+1526227748 source:/home/alexandros/Documents/My C++ Projects/MasterChef B/CreativityCompetition.cpp
+	"CreativityCompetition.h"
+	<iostream>
+
+1526226675 source:/home/alexandros/Documents/My C++ Projects/MasterChef B/ImmunityCompetition.cpp
+	"ImmunityCompetition.h"
+
+1523037250 source:/home/alexandros/Documents/My C++ Projects/MasterChef B/Team.cpp
+	"Team.h"
+	"Player.h"
+
+1523036844 /home/alexandros/Documents/My C++ Projects/MasterChef B/Team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523037116 /home/alexandros/Documents/My C++ Projects/MasterChef B/Player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1526226652 source:/home/alexandros/Documents/My C++ Projects/MasterChef B/TeamCompetition.cpp
+	"TeamCompetition.h"
+
+1526228122 source:/home/alexandros/Documents/My C++ Projects/MasterChef B/main.cpp
+	"Team.h"
+	"FoodAward.h"
+	"ExcursionAward.h"
+	"ImmunityAward.h"
+	"TeamCompetition.h"
+	"CreativityCompetition.h"
+	"ImmunityCompetition.h"
+	<random>
+	<time.h>
+
+1523093834 source:/home/alexandros/Documents/My C++ Projects/MasterChef B/Player.cpp
+	"Player.h"
+
+1523036564 /home/alexandros/Documents/My C++ Projects/MasterChef B/FoodAward.h
+	"Award.h"
+	<cstdlib>
+
+1492461614 /home/alexandros/Documents/My C++ Projects/MasterChef B/Award.h
+	<string>
+	<iostream>
+
+1526227219 /home/alexandros/Documents/My C++ Projects/MasterChef B/TeamCompetition.h
+	"Competition.h"
+	"FoodAward.h"
+	"Round.h"
+	"Team.h"
+	<random>
+	<iostream>
+	<string>
+
+1526143095 /home/alexandros/Documents/My C++ Projects/MasterChef B/Competition.h
+	<string>
+	<iostream>
+
+1492455402 /home/alexandros/Documents/My C++ Projects/MasterChef B/Round.h
+	<iostream>
+	<string>
+
+1526227130 /home/alexandros/Documents/My C++ Projects/MasterChef B/CreativityCompetition.h
+	"Competition.h"
+	"Team.h"
+	"ExcursionAward.h"
+	<string.h>
+	<iostream>
+
+1523093818 /home/alexandros/Documents/My C++ Projects/MasterChef B/ExcursionAward.h
+	"Award.h"
+	<cstdlib>
+
+1526227199 /home/alexandros/Documents/My C++ Projects/MasterChef B/ImmunityCompetition.h
+	"Competition.h"
+	"ImmunityAward.h"
+	"Team.h"
+	<string>
+	<iostream>
+
+1492461652 /home/alexandros/Documents/My C++ Projects/MasterChef B/ImmunityAward.h
+	"Award.h"
+
+1526231058 source:e:\sahinis\desktop\masterchef b\creativitycompetition.cpp
+	"CreativityCompetition.h"
+	<iostream>
+
+1526229286 e:\sahinis\desktop\masterchef b\creativitycompetition.h
+	"Competition.h"
+	"Team.h"
+	"ExcursionAward.h"
+	<string.h>
+	<iostream>
+
+1526229266 e:\sahinis\desktop\masterchef b\competition.h
+	<string>
+	<iostream>
+
+1523029644 e:\sahinis\desktop\masterchef b\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523029916 e:\sahinis\desktop\masterchef b\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523086618 e:\sahinis\desktop\masterchef b\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454414 e:\sahinis\desktop\masterchef b\award.h
+	<string>
+	<iostream>
+
+1526230644 source:e:\sahinis\desktop\masterchef b\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1526229298 e:\sahinis\desktop\masterchef b\immunitycompetition.h
+	"Competition.h"
+	"ImmunityAward.h"
+	"Team.h"
+	<string>
+	<iostream>
+
+1492454452 e:\sahinis\desktop\masterchef b\immunityaward.h
+	"Award.h"
+
+1526229956 source:e:\sahinis\desktop\masterchef b\main.cpp
+	"Team.h"
+	"FoodAward.h"
+	"ExcursionAward.h"
+	"ImmunityAward.h"
+	"TeamCompetition.h"
+	"CreativityCompetition.h"
+	"ImmunityCompetition.h"
+	<random>
+	<time.h>
+
+1523029364 e:\sahinis\desktop\masterchef b\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1526229316 e:\sahinis\desktop\masterchef b\teamcompetition.h
+	"Competition.h"
+	"FoodAward.h"
+	"Round.h"
+	"Team.h"
+	<random>
+	<iostream>
+	<string>
+
+1492448202 e:\sahinis\desktop\masterchef b\round.h
+	<iostream>
+	<string>
+
+1523086634 source:e:\sahinis\desktop\masterchef b\player.cpp
+	"Player.h"
+
+1523030050 source:e:\sahinis\desktop\masterchef b\team.cpp
+	"Team.h"
+	"Player.h"
+
+1526230518 source:e:\sahinis\desktop\masterchef b\teamcompetition.cpp
+	"TeamCompetition.h"
+
+1526231058 source:e:\sahinis\desktop\masterchef_ partc\creativitycompetition.cpp
+	"CreativityCompetition.h"
+	<iostream>
+
+1526229286 e:\sahinis\desktop\masterchef_ partc\creativitycompetition.h
+	"Competition.h"
+	"Team.h"
+	"ExcursionAward.h"
+	<string.h>
+	<iostream>
+
+1526229266 e:\sahinis\desktop\masterchef_ partc\competition.h
+	<string>
+	<iostream>
+
+1523029644 e:\sahinis\desktop\masterchef_ partc\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523029916 e:\sahinis\desktop\masterchef_ partc\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523086618 e:\sahinis\desktop\masterchef_ partc\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1492454414 e:\sahinis\desktop\masterchef_ partc\award.h
+	<string>
+	<iostream>
+
+1526230644 source:e:\sahinis\desktop\masterchef_ partc\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+
+1526229298 e:\sahinis\desktop\masterchef_ partc\immunitycompetition.h
+	"Competition.h"
+	"ImmunityAward.h"
+	"Team.h"
+	<string>
+	<iostream>
+
+1492454452 e:\sahinis\desktop\masterchef_ partc\immunityaward.h
+	"Award.h"
+
+1526229956 source:e:\sahinis\desktop\masterchef_ partc\main.cpp
+	"Team.h"
+	"FoodAward.h"
+	"ExcursionAward.h"
+	"ImmunityAward.h"
+	"TeamCompetition.h"
+	"CreativityCompetition.h"
+	"ImmunityCompetition.h"
+	<random>
+	<time.h>
+
+1523029364 e:\sahinis\desktop\masterchef_ partc\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1526229316 e:\sahinis\desktop\masterchef_ partc\teamcompetition.h
+	"Competition.h"
+	"FoodAward.h"
+	"Round.h"
+	"Team.h"
+	<random>
+	<iostream>
+	<string>
+
+1492448202 e:\sahinis\desktop\masterchef_ partc\round.h
+	<iostream>
+	<string>
+
+1523086634 source:e:\sahinis\desktop\masterchef_ partc\player.cpp
+	"Player.h"
+
+1523030050 source:e:\sahinis\desktop\masterchef_ partc\team.cpp
+	"Team.h"
+	"Player.h"
+
+1526230518 source:e:\sahinis\desktop\masterchef_ partc\teamcompetition.cpp
+	"TeamCompetition.h"
+
